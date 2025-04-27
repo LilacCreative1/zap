@@ -19,10 +19,8 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/server.js"
+      "dest": "/index.html"
     }
-  ],
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
 }
+
