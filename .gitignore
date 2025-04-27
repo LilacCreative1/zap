@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env.* 
+
+# Build output
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Windows trash
+AppData/
+Local Settings/
+Application Data/
+Cookies/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Mac trash
+__MACOSX/
+
+# Other junk
+*.bak
+*.tmp
+*.log
+
